@@ -48,13 +48,13 @@ Kaggle Dataset Used:
 - Padding Length = **30**
 
 ### 📊 Label Distribution (Train Data)
-happy 861
-other 716
-sad 621
-angry 477
-surprise 410
-fear 400
-disgust 348
+- happy 861
+- other 716
+- sad 621
+- angry 477
+- surprise 410
+- fear 400
+- disgust 348
 
 ✔ 3,833 training samples  
 ✔ 414 validation samples  
