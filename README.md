@@ -6,11 +6,6 @@ This project performs **Bangla sentiment/emotion classification** from **images 
 - **LSTM + Embedding** → Text features
 - **Dense Classifier** → 7 emotion classes
 
-Dataset used:  
-`/kaggle/input/sentiment-analysis-in-bangla/1704054_Dataset/`
-
----
-
 ## 🔥 Sentiment Labels
 - happy  
 - sad  
@@ -19,8 +14,6 @@ Dataset used:
 - fear  
 - surprise  
 - other  
-
----
 
 ## 📂 Dataset Structure
 
@@ -31,8 +24,6 @@ Kaggle Dataset Used:
 | image_name | Captions | Label_Sentiment | Label |
 |-----------|----------|------------------|--------|
 | 205.jpg | নির্বোধ দেখার... | other | 6 |
-
----
 
 ## 📥 Data Loading & Preprocessing
 
